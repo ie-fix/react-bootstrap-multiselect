@@ -9,10 +9,10 @@
   "author": "skratchdot",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/skratchdot/react-bootstrap-multiselect.git"
+    "url": "git+https://github.com/ie-fix/react-bootstrap-multiselect.git"
   },
   "bugs": {
-    "url": "https://github.com/skratchdot/react-bootstrap-multiselect/issues"
+    "url": "https://github.com/ie-fix/react-bootstrap-multiselect/issues"
   },
   "license": [
     "Apache-2.0",
