@@ -19,28 +19,8 @@
     "BSD-3-Clause"
   ],
   "dependencies": {
-    "jquery": "*",
-    "object-assign": "*",
-    "react": "*"
   },
   "devDependencies": {
-    "bootstrap": "*",
-    "gulp": "^3.9.1",
-    "gulp-browserify": "^0.5.1",
-    "gulp-connect": "^3.2.2",
-    "gulp-cssmin": "^0.1.7",
-    "gulp-download": "0.0.1",
-    "gulp-less": "^3.0.5",
-    "gulp-nodemon": "^2.0.6",
-    "gulp-react": "^3.1.0",
-    "gulp-rename": "^1.2.2",
-    "gulp-replace": "^0.5.4",
-    "gulp-uglify": "^1.5.3",
-    "gulp-wrap": "^0.11.0",
-    "jsxhint": "^0.15.1",
-    "react-bootstrap": "*",
-    "react-dom": "*",
-    "reactify": "*"
   },
   "keywords": [
     "react",
